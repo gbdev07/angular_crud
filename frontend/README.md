@@ -9,4 +9,3 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## How to start json server
 
 Json server is on a script called "json", so to start the server you just need to be on the folder 'frontend' and run the command: npm run json.
-To start the application you just need to run the command: npm start.
