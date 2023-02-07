@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gabriel Barbosa",
+      "birthdate": "20/02/2001",
+      "cpf": 61385129360
+    },
+    {
+      "id": 2,
+      "name": "Felipe Andor",
+      "birthdate": "17/03/1996",
+      "cpf": 45389400358
+    },
+    {
+      "id": 3,
+      "name": "Lucas Pierinni",
+      "birthdate": "12/05/1999",
+      "cpf": 26754405286
+    },
+    {
+      "name": "Geraldo Manibura",
+      "birthdate": "15/05/1965",
+      "cpf": "40256329557",
+      "id": 4
+    },
+    {
+      "name": "Henrique Matias",
+      "birthdate": "04/06/1988",
+      "cpf": "47600358623",
+      "id": 6
+    },
+    {
+      "name": "Aroldo Novo",
+      "birthdate": "25/04/1980",
+      "cpf": "54696342756",
+      "id": 7
+    },
+    {
+      "name": "Hernesto",
+      "birthdate": "25/04/1993",
+      "cpf": "45625873689",
+      "id": 8
+    }
+  ]
+}
